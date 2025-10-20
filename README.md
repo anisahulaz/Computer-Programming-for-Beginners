@@ -1,7 +1,4 @@
 # Computer-Programming-for-Beginners
-This repository provides a collection of basic steps and examples designed as a beginner-friendly guide for learning C++ programming.
-
-# 💻 Computer Programming for Beginners — C++ Guide
 
 ## 📘 Description
 A simple repository that provides **basic steps and examples** for beginners who want to learn **C++ programming**.  
